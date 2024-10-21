@@ -8,7 +8,7 @@ screen.bgcolor("black")
 
 # Set Pen
 pen = Turtle()
-# pen.hideturtle()
+pen.hideturtle()
 pen.color("red")
 pen.pensize(3)
 pen.speed(10)
